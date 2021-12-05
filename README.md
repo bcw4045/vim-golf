@@ -65,9 +65,9 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
 
 2번 문제의 경우 가장 처음 행에 변경할 문자열이 있으므로, W옵션으로 해당 단어로 이동한다.
 
-이후 \*옵션을 이용하여 해당 단어를 포워드 방향으로 찾는다. 이후 cw옵션을 이용하여 sublime을 vim으로 치환한다. 다음으로 명령 모드로 진입하여
+이후 \*옵션을 이용하여 해당 단어를 포워드 방향으로 찾는다. 이후 cw옵션을 이용하여 sublime을 vim으로 치환한다. 
 
-:%s/emacs/vim/g 명령을 이용하여 전체 문서에서 emacs를 vim으로 바꿔준다.
+다음으로 명령 모드로 진입하여 :%s/emacs/vim/g 명령을 이용하여 전체 문서에서 emacs를 vim으로 바꿔준다.
 
 ## Satisfy the go linter
 
