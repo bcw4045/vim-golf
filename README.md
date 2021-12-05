@@ -17,6 +17,14 @@
 
 **풀이 과정**
 
+![image](https://user-images.githubusercontent.com/67230834/144742576-fefe3ea9-0a11-4ccd-8757-191a60aa2ad7.png)
+
+
+---
+
+**사용 커멘드**
+
+
 
 ---
 
@@ -37,6 +45,9 @@
 ---
 
 **풀이 과정**
+
+![image](https://user-images.githubusercontent.com/67230834/144742563-44e71a77-06a4-421a-9d80-9f680ba3e3d2.png)
+
 
 ---
 
