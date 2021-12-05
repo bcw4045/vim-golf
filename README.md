@@ -21,9 +21,13 @@
 
 **풀이 과정**
 
+```
+GWi"<End><C-@>ZZ
+```
+
 ![KakaoTalk_20211205_192022824](https://user-images.githubusercontent.com/67230834/144742697-ed282c13-e7b4-4e1d-ad80-7c1e9d25164d.gif)
 
----
+
 
 ## simple replacements
 
@@ -47,10 +51,12 @@
 
 **풀이 과정**
 
+```
+W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
+```
+
 ![KakaoTalk_20211205_191906306](https://user-images.githubusercontent.com/67230834/144742723-773caa92-ad65-47f8-aedb-0f04cfc7e360.gif)
 
-
----
 
 ## Satisfy the go linter
 
@@ -73,6 +79,10 @@
 ---
 
 **풀이 과정**
+
+```
+4Gq1O// <C-N> TODO<Esc>q6G@1ZZ
+```
 
 ![3_1](https://user-images.githubusercontent.com/67230834/144742764-4dfccb96-1c3c-4de7-b872-d2cc941ed532.gif)
 
