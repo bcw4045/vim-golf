@@ -45,7 +45,7 @@
 
 **풀이 과정**
 
-![image](https://user-images.githubusercontent.com/67230834/144742563-44e71a77-06a4-421a-9d80-9f680ba3e3d2.png)
+![KakaoTalk_20211205_191906306](https://user-images.githubusercontent.com/67230834/144742723-773caa92-ad65-47f8-aedb-0f04cfc7e360.gif)
 
 
 ---
