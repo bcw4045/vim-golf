@@ -11,11 +11,7 @@
 
 시작 파일
 
-![image](https://user-images.githubusercontent.com/67230834/144742168-5514ef1c-90d3-4a21-9bd4-d3828bde9766.png)
-
-최종 파일
-
-![image](https://user-images.githubusercontent.com/67230834/144742207-18d9b667-ea22-4f4c-957b-5e9e5c505241.png)
+![image](https://user-images.githubusercontent.com/67230834/144742168-5514ef1c-90d3-4a21-9bd4-d3828bde9766.png) ![image](https://user-images.githubusercontent.com/67230834/144742207-18d9b667-ea22-4f4c-957b-5e9e5c505241.png)
 
 ---
 
