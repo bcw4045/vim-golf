@@ -9,7 +9,7 @@
 
 나의 점수 : 8
 
-문제 파일
+**문제 파일**
 
 ![image](https://user-images.githubusercontent.com/67230834/144742168-5514ef1c-90d3-4a21-9bd4-d3828bde9766.png) ![image](https://user-images.githubusercontent.com/67230834/144742207-18d9b667-ea22-4f4c-957b-5e9e5c505241.png)
 
@@ -39,7 +39,7 @@ GWi"<End><C-@>ZZ
 
 나의 점수 : 27
 
-문제 파일
+**문제 파일**
 
 ![image](https://user-images.githubusercontent.com/67230834/144743334-77acc5f6-837f-4889-8849-5e577a79b1d7.png) 
 ![image](https://user-images.githubusercontent.com/67230834/144743342-4e871e9c-3ee0-462b-a524-f11d33da2d4e.png)
@@ -72,7 +72,7 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
 
 나의 점수 : 22
 
-문제 파일
+**문제 파일**
 
 ![image](https://user-images.githubusercontent.com/67230834/144742275-6ac02f8c-6b9b-4ea4-bf29-3e69f657799d.png) 
 ![image](https://user-images.githubusercontent.com/67230834/144742285-5bd11140-7d24-4b51-8677-90e6c6ee6084.png)
@@ -109,7 +109,7 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
 
 나의 점수 : 52
 
-문제 파일
+**문제 파일**
   
 ![image](https://user-images.githubusercontent.com/67230834/144743353-846caf99-9391-496f-a15e-c3b159cab1c9.png)
 ![image](https://user-images.githubusercontent.com/67230834/144743364-2ed78b8e-c2b1-4a84-abb8-ac890008826f.png)
@@ -134,7 +134,7 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
   
 이후 바로 이전 명령을 반복하는 명령어인 .옵션으로 나머지 1 문자를 치환시켜준다.
 
-## Python dataclasses
+## 5. Python dataclasses
 
 **문제**
 
@@ -144,7 +144,7 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
 
 나의 점수 : 19
 
-문제 파일
+**문제 파일**
 
 ![image](https://user-images.githubusercontent.com/67230834/144743636-c1407e10-7f37-4225-894b-00744299f0ac.png) 
 ![image](https://user-images.githubusercontent.com/67230834/144743645-fe920d2d-5e2e-40cb-a91e-6bae54348dce.png)
