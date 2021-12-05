@@ -112,9 +112,42 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
 **풀이 과정**
 
 ```
+:%s/y1/abs(&)<CR>/k<KR>rgkrrkrb3G/1<CR>r2n.n.nr3n.n.nr4n.n.ZZ
+```
+
+![4_1](https://user-images.githubusercontent.com/67230834/144743524-3de5086a-943b-4b17-958b-810a0a0d0fd6.gif)
+
+![4_2](https://user-images.githubusercontent.com/67230834/144743533-9a0ade09-730f-4206-96c0-f642eeb6b6d7.gif)
+
+
+
+## Python dataclasses
+
+**문제**
+
+해당 문제는 맨 밑줄의 fields 변수의 ""안에 문자열을 집어넣는 문제이다.
+
+최고점 : 19
+
+나의 점수 : 19
+
+시작 파일
+
+![image](https://user-images.githubusercontent.com/67230834/144743636-c1407e10-7f37-4225-894b-00744299f0ac.png)
+
+최종 파일
+
+![image](https://user-images.githubusercontent.com/67230834/144743645-fe920d2d-5e2e-40cb-a91e-6bae54348dce.png)
+
+---
+
+**풀이 과정**
+
+```
 4Gq1O// <C-N> TODO<Esc>q6G@1ZZ
 ```
 
+![5번](https://user-images.githubusercontent.com/67230834/144743648-c172b757-d2e5-43c7-b612-81b0ceace09b.gif)
 
 
 
