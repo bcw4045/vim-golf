@@ -1,5 +1,5 @@
 # vim-golf
-## Add to quotes to ansible playbook
+## 1. Add to quotes to ansible playbook
 
 **문제**
 
@@ -9,7 +9,7 @@
 
 나의 점수 : 8
 
-시작 파일
+문제 파일
 
 ![image](https://user-images.githubusercontent.com/67230834/144742168-5514ef1c-90d3-4a21-9bd4-d3828bde9766.png) ![image](https://user-images.githubusercontent.com/67230834/144742207-18d9b667-ea22-4f4c-957b-5e9e5c505241.png)
 
@@ -29,7 +29,7 @@ GWi"<End><C-@>ZZ
 
 이후 W옵션을 이용하여 다음 단어인 {앞으로 이동한다. 그 후 "문자를 삽인한 후 Ctrl+@ 옵션을 이용하여 이전에 삽인된 텍스트를 삽입하고 편집모드를 종료시킨다.
 
-## simple replacements
+## 2. simple replacements
 
 **문제**
 
@@ -39,12 +39,9 @@ GWi"<End><C-@>ZZ
 
 나의 점수 : 27
 
-시작 파일
+문제 파일
 
-![image](https://user-images.githubusercontent.com/67230834/144743334-77acc5f6-837f-4889-8849-5e577a79b1d7.png)
-
-최종 파일
-
+![image](https://user-images.githubusercontent.com/67230834/144743334-77acc5f6-837f-4889-8849-5e577a79b1d7.png) 
 ![image](https://user-images.githubusercontent.com/67230834/144743342-4e871e9c-3ee0-462b-a524-f11d33da2d4e.png)
 
 ---
@@ -65,7 +62,7 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
 
 다음으로 명령 모드로 진입하여 :%s/emacs/vim/g 명령을 이용하여 전체 문서에서 emacs를 vim으로 바꿔준다.
 
-## Satisfy the go linter
+## 3. Satisfy the go linter
 
 **문제**
 
@@ -75,12 +72,9 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
 
 나의 점수 : 22
 
-시작 파일
+문제 파일
 
-![image](https://user-images.githubusercontent.com/67230834/144742275-6ac02f8c-6b9b-4ea4-bf29-3e69f657799d.png)
-
-최종 파일
-
+![image](https://user-images.githubusercontent.com/67230834/144742275-6ac02f8c-6b9b-4ea4-bf29-3e69f657799d.png) 
 ![image](https://user-images.githubusercontent.com/67230834/144742285-5bd11140-7d24-4b51-8677-90e6c6ee6084.png)
 
 ---
@@ -105,7 +99,7 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
   
 @1로 매크로를 실행시킨다.
 
-## Plotting some variables in python
+## 4. Plotting some variables in python
 
 **문제**
 
@@ -115,12 +109,9 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
 
 나의 점수 : 52
 
-시작 파일
-
+문제 파일
+  
 ![image](https://user-images.githubusercontent.com/67230834/144743353-846caf99-9391-496f-a15e-c3b159cab1c9.png)
-
-최종 파일
-
 ![image](https://user-images.githubusercontent.com/67230834/144743364-2ed78b8e-c2b1-4a84-abb8-ac890008826f.png)
 
 ---
@@ -153,12 +144,9 @@ W*cwvim<ESC>:%s/emacs/vim/g<CR><Esc>ZZ
 
 나의 점수 : 19
 
-시작 파일
+문제 파일
 
-![image](https://user-images.githubusercontent.com/67230834/144743636-c1407e10-7f37-4225-894b-00744299f0ac.png)
-
-최종 파일
-
+![image](https://user-images.githubusercontent.com/67230834/144743636-c1407e10-7f37-4225-894b-00744299f0ac.png) 
 ![image](https://user-images.githubusercontent.com/67230834/144743645-fe920d2d-5e2e-40cb-a91e-6bae54348dce.png)
 
 ---
