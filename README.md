@@ -62,5 +62,18 @@
 
 ![image](https://user-images.githubusercontent.com/67230834/144742285-5bd11140-7d24-4b51-8677-90e6c6ee6084.png)
 
+---
+
+**풀이 과정**
+
+![3_1](https://user-images.githubusercontent.com/67230834/144742764-4dfccb96-1c3c-4de7-b872-d2cc941ed532.gif)
+
+![3_2](https://user-images.githubusercontent.com/67230834/144742777-8764a439-e12f-4bd4-aa7a-68494829d2c7.gif)
+
+
+
+
+
+
 
 
