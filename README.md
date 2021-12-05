@@ -17,8 +17,7 @@
 
 **풀이 과정**
 
-![image](https://user-images.githubusercontent.com/67230834/144742576-fefe3ea9-0a11-4ccd-8757-191a60aa2ad7.png)
-
+![KakaoTalk_20211205_192022824](https://user-images.githubusercontent.com/67230834/144742697-ed282c13-e7b4-4e1d-ad80-7c1e9d25164d.gif)
 
 ---
 
